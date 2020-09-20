@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/darshan-jain/apada/precache-manifest.3d697a1a7b01b61b945eb693fad19e3d.js"
+  "/darshan-jain/apada/precache-manifest.724b75c05e7989eb0dab54820fa9e0a2.js"
 );
 
 self.addEventListener('message', (event) => {

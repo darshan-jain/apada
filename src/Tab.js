@@ -15,6 +15,7 @@ function TabPanel(props) {
   const { children, value, index, ...other } = props;
 
   return (
+    <HashRouter basename='/'>
     
     <div
       role="tabpanel"
@@ -29,6 +30,7 @@ function TabPanel(props) {
         </Box>
       )}
     </div>
+    </HashRouter>
   );
 }
 
@@ -73,7 +75,7 @@ export default function NavTabs() {
   };
 
   return (
-    <HashRouter basename='/'>
+   
     <div className={classes.root}>
       <AppBar position="static">
         <Tabs
@@ -97,7 +99,7 @@ export default function NavTabs() {
         <ThirdTab/>
       </TabPanel>
     </div>
-    </HashRouter>
+    
   );
 }
 

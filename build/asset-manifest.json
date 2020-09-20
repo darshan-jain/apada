@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/darshan-jain/apada/static/css/main.5f361e03.chunk.css",
-    "main.js": "/darshan-jain/apada/static/js/main.4f162c1c.chunk.js",
-    "main.js.map": "/darshan-jain/apada/static/js/main.4f162c1c.chunk.js.map",
+    "main.js": "/darshan-jain/apada/static/js/main.069f8483.chunk.js",
+    "main.js.map": "/darshan-jain/apada/static/js/main.069f8483.chunk.js.map",
     "runtime-main.js": "/darshan-jain/apada/static/js/runtime-main.e179e18d.js",
     "runtime-main.js.map": "/darshan-jain/apada/static/js/runtime-main.e179e18d.js.map",
     "static/css/2.2fedd682.chunk.css": "/darshan-jain/apada/static/css/2.2fedd682.chunk.css",
-    "static/js/2.5a75be83.chunk.js": "/darshan-jain/apada/static/js/2.5a75be83.chunk.js",
-    "static/js/2.5a75be83.chunk.js.map": "/darshan-jain/apada/static/js/2.5a75be83.chunk.js.map",
+    "static/js/2.944e511b.chunk.js": "/darshan-jain/apada/static/js/2.944e511b.chunk.js",
+    "static/js/2.944e511b.chunk.js.map": "/darshan-jain/apada/static/js/2.944e511b.chunk.js.map",
     "index.html": "/darshan-jain/apada/index.html",
-    "precache-manifest.5c436b44cc2bb46beeb30cd284eb52ff.js": "/darshan-jain/apada/precache-manifest.5c436b44cc2bb46beeb30cd284eb52ff.js",
+    "precache-manifest.3d697a1a7b01b61b945eb693fad19e3d.js": "/darshan-jain/apada/precache-manifest.3d697a1a7b01b61b945eb693fad19e3d.js",
     "service-worker.js": "/darshan-jain/apada/service-worker.js",
     "static/css/2.2fedd682.chunk.css.map": "/darshan-jain/apada/static/css/2.2fedd682.chunk.css.map",
     "static/css/main.5f361e03.chunk.css.map": "/darshan-jain/apada/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.5a75be83.chunk.js.LICENSE.txt": "/darshan-jain/apada/static/js/2.5a75be83.chunk.js.LICENSE.txt",
+    "static/js/2.944e511b.chunk.js.LICENSE.txt": "/darshan-jain/apada/static/js/2.944e511b.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/darshan-jain/apada/static/media/outline-icons.ef60a4f6.woff",
     "static/media/logo.svg": "/darshan-jain/apada/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.e179e18d.js",
     "static/css/2.2fedd682.chunk.css",
-    "static/js/2.5a75be83.chunk.js",
+    "static/js/2.944e511b.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.4f162c1c.chunk.js"
+    "static/js/main.069f8483.chunk.js"
   ]
 }

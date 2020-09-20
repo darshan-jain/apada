@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4720b566a34e0226a48e0e309120cffe",
+    "revision": "3e89f4f720eabd8dbd15da392d71cf56",
     "url": "/darshan-jain/apada/index.html"
   },
   {
-    "revision": "7039c57ca596912ff0b2",
+    "revision": "b89e18e7a5c8f94ee3dc",
     "url": "/darshan-jain/apada/static/css/2.2fedd682.chunk.css"
   },
   {
-    "revision": "0d65954dfb976bf859e6",
+    "revision": "685c94e21ab09ddfe9f7",
     "url": "/darshan-jain/apada/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "7039c57ca596912ff0b2",
-    "url": "/darshan-jain/apada/static/js/2.5a75be83.chunk.js"
+    "revision": "b89e18e7a5c8f94ee3dc",
+    "url": "/darshan-jain/apada/static/js/2.944e511b.chunk.js"
   },
   {
     "revision": "6d34f815620849a5469c05a9d36c6875",
-    "url": "/darshan-jain/apada/static/js/2.5a75be83.chunk.js.LICENSE.txt"
+    "url": "/darshan-jain/apada/static/js/2.944e511b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0d65954dfb976bf859e6",
-    "url": "/darshan-jain/apada/static/js/main.4f162c1c.chunk.js"
+    "revision": "685c94e21ab09ddfe9f7",
+    "url": "/darshan-jain/apada/static/js/main.069f8483.chunk.js"
   },
   {
     "revision": "d12fc47563126e995509",

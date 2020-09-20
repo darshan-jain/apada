@@ -15,7 +15,7 @@ function TabPanel(props) {
   const { children, value, index, ...other } = props;
 
   return (
-    <HashRouter basename='/'>
+    
     <div
       role="tabpanel"
       hidden={value !== index}
@@ -73,6 +73,7 @@ export default function NavTabs() {
   };
 
   return (
+    <HashRouter basename='/'>
     <div className={classes.root}>
       <AppBar position="static">
         <Tabs

@@ -1,6 +1,6 @@
 {
-  "homepage": "https://github.com/darshan-jain/apada",
-  "name": "apada",
+  "homepage": "https://darshan-jain.github.io/apada",
+  "name": "apada", 
   "version": "0.1.0",
   "private": true,
   "dependencies": {

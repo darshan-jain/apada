@@ -9,6 +9,7 @@ https://darshan-jain.github.io/apada/#/
 ## Cross-Platform Disaster Management App 
 
 Apada is a react application which shows us the data related to the affected area in the form of a graph and displays the current news of that particular area.The app also provides an interface where the user can contribute to the NGO involved in the relief issues of that location. 
+Works Best when used on Mobile.
 
 ## Available Scripts for Development
 

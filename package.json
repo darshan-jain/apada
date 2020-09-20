@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/Raswanth8/Apada",
+  "homepage": "https://github.com/darshan-jain/apada/src/App.js", 
   "name": "apada",
   "version": "0.1.0",
   "private": true,
@@ -15,7 +15,7 @@
     "react": "^16.13.1",
     "react-chartjs-2": "^2.10.0",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.3",
+    "react-scripts": "^3.4.3",
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^1.2.1"
   },

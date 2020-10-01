@@ -1,4 +1,4 @@
-This Project is for Hack Chennai (SRM hackerearth 2020)
+
 ## Developers-
 Raswanth Rajangam - https://www.linkedin.com/in/raswanth-rajangam-4564a41aa/ <br/>
 Darshan Jain - https://www.linkedin.com/in/darshan-j-236793121/

@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e8f4f42ec2bf86ddb61836ed9ce6d35a",
+    "revision": "dd7f30c236e344f69f1e90ea25d83ff1",
     "url": "/apada/index.html"
   },
   {
-    "revision": "a3622350181386df5220",
+    "revision": "15994cb7d2d0c44f4765",
     "url": "/apada/static/css/2.3c0bf5f5.chunk.css"
   },
   {
-    "revision": "efff2b9fc07b6c2190a2",
+    "revision": "9e358cb7560d1139c194",
     "url": "/apada/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "a3622350181386df5220",
-    "url": "/apada/static/js/2.dd08de4f.chunk.js"
+    "revision": "15994cb7d2d0c44f4765",
+    "url": "/apada/static/js/2.b2f583ca.chunk.js"
   },
   {
     "revision": "6d34f815620849a5469c05a9d36c6875",
-    "url": "/apada/static/js/2.dd08de4f.chunk.js.LICENSE.txt"
+    "url": "/apada/static/js/2.b2f583ca.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "efff2b9fc07b6c2190a2",
-    "url": "/apada/static/js/main.fb08867a.chunk.js"
+    "revision": "9e358cb7560d1139c194",
+    "url": "/apada/static/js/main.7094191e.chunk.js"
   },
   {
     "revision": "f471ff091a6cbe436b94",

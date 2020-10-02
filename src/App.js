@@ -7,11 +7,11 @@ import { HashRouter, Route, Link } from "react-router-dom";
 
 function App() {
   return (
-    <HashRouter = '/'>
+    <HashRouter basename='/'>
     <div className="App">
     <TabPanel/>
     </div>
-    <HashRouter/>
+    </HashRouter>
   
   );
 }

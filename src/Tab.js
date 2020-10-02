@@ -9,7 +9,7 @@ import Box from '@material-ui/core/Box';
 import FirstTab from './components/Tab1.js';
 import ThirdTab from './components/Tab3.js';
 import SecondTab from './components/Tab2.js';
-import { HashRouter, Route, Link } from "react-router-dom";
+
 
 
 function TabPanel(props) {
@@ -76,7 +76,7 @@ export default function NavTabs() {
   };
 
   return (
-    <HashRouter basename='/'>
+    
    
     <div className={classes.root}>
       <AppBar position="static">
@@ -101,7 +101,7 @@ export default function NavTabs() {
         <ThirdTab/>
       </TabPanel>
     </div>
-    </HashRouter>
+   
     
   );
 }
